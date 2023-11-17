@@ -1,0 +1,2 @@
+{"tag": "function", "depth": 1, "time": 1700144350.634399, "data": {"name": "connect_device", "call_args": {"uri": "android://127.0.0.1:5037/R3CW10C3D9N?cap_method=MINICAP&touch_method=MAXTOUCH&"}, "start_time": 1700144350.5018969, "ret": "<Android 'R3CW10C3D9N'>", "end_time": 1700144350.634384}}
+{"tag": "function", "depth": 1, "time": 1700144350.7412019, "data": {"name": "clear_app", "call_args": {"package": "com.block.color.blast.inner"}, "start_time": 1700144350.635647, "ret": null, "end_time": 1700144350.741178}}
