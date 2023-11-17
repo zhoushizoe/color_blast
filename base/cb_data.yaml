@@ -1,0 +1,8 @@
+app_first_open:
+  app_version: 1.0.1
+app_open:
+  open_scene: icon
+app_quit: None
+privacy_pv: None
+privacy_click: None
+
