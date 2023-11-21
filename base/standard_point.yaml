@@ -1,0 +1,7 @@
+# 首次打开游戏
+app_first_open: "A_ANALYSIS : FIREBASE     : EVENT_SEND       : app_first_open =>"
+# 打开游戏（非首次）
+app_open: "A_ANALYSIS : FIREBASE     : EVENT_SEND       : app_open =>"
+# 玩家开始新的一局
+game_new_start: "A_ANALYSIS : FIREBASE     : EVENT_SEND       : game_new_start"
+

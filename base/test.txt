@@ -1,0 +1,3 @@
+app_open => {open_scene:icon,
+app_open => {open_scene:icon,
+game_new_start => {activity_id:0,activity_name:classic,levelid:3,scene:new,rank_lid:3,

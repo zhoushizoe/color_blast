@@ -7,6 +7,7 @@ from base.base_cb import BaseElement
 from airtest.cli.parser import cli_setup
 from airtest.core.api import *
 
+
 # if not cli_setup():
 #     auto_setup(__file__, logdir=True,
 #                devices=["android://127.0.0.1:5037/R3CW10C3D9N?cap_method=MINICAP&touch_method=MAXTOUCH&", ])
@@ -42,6 +43,5 @@ class GetData(BaseElement):
         value = self.open_file()[key]
         # print(value)
         return value
-
 
 # GetData().get_data_2("color_blast_name")

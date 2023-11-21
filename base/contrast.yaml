@@ -1,0 +1,6 @@
+'11-20 19:29:04.938 11855 11960 I Unity   : [Info]A_ANALYSIS : FIREBASE     : EVENT_SEND       :
+  app_first_open => {lib_net_status:WIFI,lib_event_timestamp:1700479744938}'
+app_first_open => {lib_net_status:WIFI,lib_event_timestamp:1700480312680}
+...
+app_first_open => {lib_net_status:WIFI,lib_event_timestamp:1700481506778}
+...
